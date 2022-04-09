@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bennentterprise.github.io/csb-0yfldy/static/css/main.c3515bba.chunk.css",
+    "main.js": "https://bennentterprise.github.io/csb-0yfldy/static/js/main.0c04db68.chunk.js",
+    "main.js.map": "https://bennentterprise.github.io/csb-0yfldy/static/js/main.0c04db68.chunk.js.map",
+    "runtime-main.js": "https://bennentterprise.github.io/csb-0yfldy/static/js/runtime-main.07329512.js",
+    "runtime-main.js.map": "https://bennentterprise.github.io/csb-0yfldy/static/js/runtime-main.07329512.js.map",
+    "static/js/2.f7c0177f.chunk.js": "https://bennentterprise.github.io/csb-0yfldy/static/js/2.f7c0177f.chunk.js",
+    "static/js/2.f7c0177f.chunk.js.map": "https://bennentterprise.github.io/csb-0yfldy/static/js/2.f7c0177f.chunk.js.map",
+    "index.html": "https://bennentterprise.github.io/csb-0yfldy/index.html",
+    "static/css/main.c3515bba.chunk.css.map": "https://bennentterprise.github.io/csb-0yfldy/static/css/main.c3515bba.chunk.css.map",
+    "static/js/2.f7c0177f.chunk.js.LICENSE.txt": "https://bennentterprise.github.io/csb-0yfldy/static/js/2.f7c0177f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07329512.js",
+    "static/js/2.f7c0177f.chunk.js",
+    "static/css/main.c3515bba.chunk.css",
+    "static/js/main.0c04db68.chunk.js"
+  ]
+}
